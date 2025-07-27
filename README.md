@@ -1,0 +1,2 @@
+# NamastePython
+Python Practice
